@@ -16,7 +16,10 @@ public class App {
 				System.out.println("Line 6");
 				System.out.println("Line 7");
 				System.out.println("Line 8");
-				System.out.println("Line 9");					
+				System.out.println("Line 9");
+				System.out.println("Line 10");
+				System.out.println("Line 11");
+				System.out.println("Line 12");								
 			}
 		});
 				
